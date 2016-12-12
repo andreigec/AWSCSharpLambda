@@ -1,3 +1,6 @@
+### C# lambda, SQS, SNS and Cloudwatch - together for the first time
+Created by Andrei Gec, last modified on Dec 09, 2016
+
 The next logical step after breaking up a monolithic app/database into microservices is a serverless approach.  Here, instead of depending on traditional EC2 instances to host and run services in the traditional fashion, we utilise FAAS (function as a service)<sup>[[1]](https://en.wikipedia.org/wiki/Function_as_a_Service)</sup> patterns to run functions on demand.
 
 The benefits of a serverless approach:
